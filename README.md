@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pinki Mandal</h1>
 <h3 align="center">A passionate software developer from India</h3>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinki-mandal&label=Profile%20views&color=0e75b6&style=flat" alt="pinki-mandal" /> </p>
 
 - 📫 How to reach me **pinkimandal21@navgurukul.org**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kQ_QsjfSkYKhW06ufVK9btaWhMZ_ptwe/view?usp=drive_link](https://drive.google.com/file/d/1kQ_QsjfSkYKhW06ufVK9btaWhMZ_ptwe/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zQ2DxHtPALlrAOKQviWIT9uZ_e3aaA41/view?usp=sharing](https://drive.google.com/file/d/1zQ2DxHtPALlrAOKQviWIT9uZ_e3aaA41/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pinki mandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pinki mandal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/pinki-mandal-67b108239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pinki-mandal-67b108239" height="30" width="40" /></a>
 <a href="https://instagram.com/pinkimandal11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pinkimandal11" height="30" width="40" /></a>
 </p>
 
@@ -20,4 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinki-mandal&show_icons=true&locale=en&layout=compact" alt="pinki-mandal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinki-mandal&show_icons=true&locale=en" alt="pinki-mandal" /></p>
+
 
