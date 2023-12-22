@@ -5,13 +5,7 @@
 
 <h3  align="center">
   const intro = {
-    name: 'Pinki'
-   <ul style="list-style: none; padding: 0;">
-      <li>Languages: JavaScript, Python</li>
-      <li>Frameworks: NodeJS, npm, Express</li>
-      <li>Databases: MongoDB, MySQL</li>
-      <li>Tools: Git, Postman, VS Code, GitHub, Ubuntu</li>
-    </ul>
+    name: 'Pinki',
     tech: {
         languages: [
             JavaScript, Python
