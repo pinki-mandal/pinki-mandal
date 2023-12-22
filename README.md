@@ -5,8 +5,6 @@
 
 ### Connect with me here
 
-[![Linkdin Badge](https://img.shields.io/badge/-@kajaly705-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/Harshkhatri24) 
-[![Gmail Badge](https://img.shields.io/badge/-pinkimandal21@navgurukul.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
 ```javascript
 const intro = {
     name: 'Pinki',
@@ -32,6 +30,14 @@ const intro = {
 
 
 <br/>
+
+
+
+<div style="text-align: center;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pinki-mandal&show_icons=true&theme=tokyonight" style="margin: 0 20px;" width="450" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pinki-mandal&theme=dark&hide_border=true" style="margin: 0 50px; width: 50%;" width="450" />
+</div>
 
 
 
