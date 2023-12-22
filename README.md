@@ -40,10 +40,3 @@ const intro = {
 </div>
 
 
-
-</br>
-</br>
-<div align="center">
-<i>Random dev joke for you!</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-</div>
