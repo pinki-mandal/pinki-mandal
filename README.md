@@ -2,11 +2,26 @@
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinki-mandal&label=Profile%20views&color=0e75b6&style=flat" alt="pinki-mandal" /> </p>
 
-- 📫 How to reach me **pinkimandal21@navgurukul.org**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zQ2DxHtPALlrAOKQviWIT9uZ_e3aaA41/view?usp=sharing](https://drive.google.com/file/d/1zQ2DxHtPALlrAOKQviWIT9uZ_e3aaA41/view?usp=sharing)
+<h3>Intro my 
+  const intro = {
+    name: 'Pinki',
+    tech: {
+        languages: [
+            JavaScript, Python,NodeJS
+        ],
+        frameworks: [
+             NodeJS, npm, Express,
+        ],
+        databases: [
+            MongoDB, MySQL,
+        ]
+        tools: [
+            Git, Postman, VS Code, GitHub, Ubuntu
+        ]
+    },
+};
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
