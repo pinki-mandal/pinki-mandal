@@ -5,9 +5,8 @@
 
 ### Connect with me here
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pinki-0B65C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pinki/)](www.linkedin.com/in/pinki-mandal-67b108239)
-[![Gmail Badge](https://img.shields.io/badge/-Pinki-D2042D?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pinki.nit.vns@gmail.com.com)](mailto:pinki.nit.vns@gmail.com.com)
-
+[![Linkdin Badge](https://img.shields.io/badge/-@kajaly705-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/Harshkhatri24) 
+[![Gmail Badge](https://img.shields.io/badge/-pinkimandal21@navgurukul.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
 ```javascript
 const intro = {
     name: 'Pinki',
