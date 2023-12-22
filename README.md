@@ -35,7 +35,7 @@ const intro = {
 
 <div style="text-align: center;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pinki-mandal&show_icons=true&theme=tokyonight" style="margin: 0 20px;" width="450" />
-  <br/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pinki-mandal&theme=dark&hide_border=true" style="margin: 0 50px; width: 50%;" width="450" />
 </div>
 
